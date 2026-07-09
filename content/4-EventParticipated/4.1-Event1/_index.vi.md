@@ -25,7 +25,7 @@ pre: " <b> 4.1. </b> "
 - **Huỳnh Hoàng Long** - FCAJ Member
 - **Nguyễn Tuấn Thịnh** - DevOps/Cloud Engineer (đại diện FCAJ)
 - **Anh Khang** - Solutions Architect tại Cloud Kinetics
-- **Diễn giả thứ tư** - Chuyên gia về phương pháp BMAD
+- **Thảo Nguyên** - Chuyên gia về phương pháp BMAD
 
 ### Nội Dung Nổi Bật
 
