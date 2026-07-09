@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Prerequisites"
 date: 2026-07-09
 weight: 2
@@ -17,7 +17,11 @@ Before you begin, make sure you have:
 - An active AWS account.
 - It is recommended to use **Asia Pacific (Singapore)** (`ap-southeast-1`) as the AWS Region to ensure that all services used in this workshop are fully supported.
 
+![region](/images/5-Workshop/5.2-Prerequisite/region.jpg)
+
 * IAM User **workshop-admin** should have the following IAM permission policy:
+
+![iam-permission](/images/5-Workshop/5.2-Prerequisite/iam-permission.jpg)
 
 ```
 {

@@ -10,7 +10,13 @@ pre: " <b> 5.3 </b> "
 
 #### 1. Configure AWS IoT Core
 * Create a **Thing** in AWS IoT Core representing the smart vehicle (e.g., `SmartVehicle_01`).
+
+![thing](/images/5-Workshop/5.3-Telemetry-flow/thing-name.jpg)
+
 * Download the **Certificates** (Public key, Private key, Device certificate) to allow the simulated device to securely authenticate and connect with AWS IoT.
+
+![cert](/images/5-Workshop/5.3-Telemetry-flow/download-certificate.jpg)
+
 * Create and attach an **IoT Policy** to the Certificate to grant the device permissions to Publish and Subscribe to specific MQTT topics (e.g., `telemetry/vehicle/#`).
 
 ![policy](/images/5-Workshop/5.3-Telemetry-flow/result.jpg)
